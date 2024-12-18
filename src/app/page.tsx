@@ -3,7 +3,7 @@ import React from "react";
 export default function HomePage() {
   return (
     <div className="flex flex-col h-screen justify-center items-center">
-      <h1 className="text-lg my-2">next v15 + diasyui</h1>
+      <h1 className="text-lg my-2">next v15 + daisyui</h1>
       <p className="font-sans">Your font in sans</p>
       <p className="font-mono">Your font in mono</p>
       <h1 className="text-lg mt-8">color theme</h1>
